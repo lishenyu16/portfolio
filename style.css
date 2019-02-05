@@ -76,7 +76,7 @@ body {
   .social {
     font-size: 2em;
     color: white;
-    padding: 20px;
+    padding: 1.25rem;
   }
   
   /*ARROW LINK*/
@@ -85,7 +85,7 @@ body {
     width: 100%;*/
     margin-top: auto;
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 3rem;
   }
   
   #down-arrow a {
