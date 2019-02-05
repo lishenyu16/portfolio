@@ -272,4 +272,8 @@ body {
   .white-text {
     color: white;
   }
+  .footer{
+    text-align: center;
+    padding:1rem;
+  }
   
